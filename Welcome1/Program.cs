@@ -17,6 +17,9 @@ namespace Welcome1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
+            string person = "Davide Andrea Mauro";
+            Console.WriteLine($"My name is: {person}");
         }
     }
 }
